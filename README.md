@@ -1,6 +1,7 @@
-# Polykur
+## Polykur
+### *EDIT: NO MORE UPDATE OFFSETS [21.06.23]
+POLYGON Internal (use sdk)  
 
-POLYGON Internal (use sdk)
 
 ## Example Usage
 [Preview v1](https://streamable.com/cz2gh3)    
