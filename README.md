@@ -1,13 +1,11 @@
-## Polykur
-### *EDIT: NO MORE UPDATE OFFSETS [21.06.23]
-POLYGON Internal (use sdk)  
+### Polykur
+Polygon internal
 
+### Example Usage
+[Preview](https://streamable.com/cz2gh3)    
+[Team esp](https://streamable.com/hxtidz)
 
-## Example Usage
-[Preview v1](https://streamable.com/cz2gh3)    
-[Added Team ESP v2](https://streamable.com/hxtidz)
-
-## Screenshot
+### Screenshot
 
 <div align=center>
 
